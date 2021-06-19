@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShoesApp</string>
+    <string name="about_icon">About</string>
+    <string name="textdetailShoes">Detail Text</string>
+    <string name="Appname">ShoesApp</string>
+    <string name="buy_now">BUY NOW</string>
+    <string name="shoesimage">ShoesImage</string>
+    <string name="BrandShoes">BrandShoes</string>
+    <string name="buttonBuy">Tombol ini ditekan</string>
+    <string name="sizeshoes">SizeShoes</string>
+    <string name="priceshoes">PriceShoes</string>
+    <string name="namaHintAbout">Nama</string>
+    <string name="namaAbout">Prayogi Sholihul Insan</string>
+    <string name="emailHintAbout">Email</string>
+    <string name="emailAbout">Prayogisholihul@gmail.com</string>
+    <string name="fotodiri">fotoDiri</string>
+</resources>
